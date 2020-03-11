@@ -1,2 +1,2 @@
 # rajkin07.github.io
-rajkin webstore
+My own stuff to showcase to world.
